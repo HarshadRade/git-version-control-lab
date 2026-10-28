@@ -1,0 +1,15 @@
+Common Git commands
+| Command | Purpose |
+|---|---|
+| git --version | Check the installed Git version |
+| git init | Initialize a local repository |
+| git status | Show working-tree and staging status |
+| git add <file> | Stage a file |
+| git commit -m "message" | Record staged changes |
+| git log --oneline | View compact commit history |
+| git diff | View unstaged changes |
+| git branch | List local branches |
+| git switch <branch> | Switch branches |
+| git remote -v | Show configured remote repositories |
+| git push | Send local commits to a remote |
+| git pull | Fetch and integrate remote changes |
